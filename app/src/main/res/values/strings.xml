@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Logix</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="sign_in_title">Logix</string>
+    <string name="sign_in_username">E-Mail</string>
+    <string name="sign_in_password">Password</string>
+    <string name="sign_in_sign_up">Sign Up</string>
+    <string name="sign_in_not_a_member">Not A Member?</string>
+    <string name="sign_in_remember_me">Remember Me</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="sign_up_title">Sign Up</string>
+    <string name="sign_up_first_name">Name</string>
+    <string name="sign_up_last_name">Last Name</string>
+    <string name="sign_up_email">E-Mail</string>
+    <string name="sign_up_address">Address</string>
+    <string name="sign_up_tel_number">Telephone Number</string>
+    <string name="sign_up_confirm_password">Confirm Password</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+
+</resources>

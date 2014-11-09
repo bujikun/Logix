@@ -1,0 +1,60 @@
+<resources>
+
+
+
+    <style name="sign_in_text_edit" >
+
+        <item name="android:layout_width" >match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:background">@drawable/sign_in_edit_text</item>
+        <item name="android:gravity">fill</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_weight">1.7</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="sign_up_text_edit" >
+
+        <item name="android:layout_width" >match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:background">@drawable/sign_up_edit_text</item>
+        <item name="android:gravity">fill</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_weight">1.5</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+
+    </style>
+
+
+
+    <style name="sign_in_button">
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1.2</item>
+        <item name="android:background">@drawable/sign_in_button_selector</item>
+
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">30dp</item>
+        <item name="android:paddingRight">30dp</item>
+        <item name="android:paddingBottom">2dp</item>
+        <item name="android:paddingTop">2dp</item>
+       <item name="android:typeface">monospace</item>
+
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/sign_in_button_text_color_selector</item>
+       <item name="android:layout_gravity">right</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+
+
+
+    </style>
+</resources>
+
