@@ -2,7 +2,7 @@
 Logix
 ==========
 
-Logix is a simple registration and login system that I decided to build as my weekend project.
+Logix is a simple registration and login system.It's not all secure but it can withstand a lot.
 
 Logix exposes server side APIs written using PHP while interacting with a MySQL database to 
 store newly registered users and login them in from an android application.The server sends data to the 
